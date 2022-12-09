@@ -56,6 +56,7 @@ function checkpass(element){
         valid3=false;
     }
 }
+
 function check(element){
     if(valid1==false||valid2==false||valid3==false){
         event.preventDefault()
