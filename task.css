@@ -43,7 +43,7 @@ input:hover{
 }
 input:focus{
     outline: 0px;
-    box-shadow: inset 6px 6px 6px #cbced1, inset -6px -6px 6px #ffffff;
+    box-shadow: inset 0px 0px 0px #ffffff, inset -6px -6px 6px #ffffff;
 }
 input[type="submit"]{
     width: 100px;
